@@ -1,0 +1,24 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto de JavaScript con Node en OpenBootcamp",
+  "main": "index.js",
+  "scripts": {
+    "saludar": "node hola_mundo.js",
+    "start": "node index.js", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuciaGangi/JavaScriptNode.git"
+  },
+  "keywords": [
+    "holamundo"
+  ],
+  "author": "Lucia Gangi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuciaGangi/JavaScriptNode/issues"
+  },
+  "homepage": "https://github.com/LuciaGangi/JavaScriptNode#readme"
+}
