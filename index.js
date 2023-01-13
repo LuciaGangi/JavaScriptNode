@@ -1,3 +1,3 @@
 
 
-console.log("Esta esa la puerta de entrada al proyecto")
+console.log("Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo")
